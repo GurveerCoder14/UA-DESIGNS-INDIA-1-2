@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/UA-DESIGNS-INDIA-1-2/static/css/main.3dfca1f2.css",
+    "main.js": "/UA-DESIGNS-INDIA-1-2/static/js/main.fed85ba8.js",
+    "static/js/787.141b61b2.chunk.js": "/UA-DESIGNS-INDIA-1-2/static/js/787.141b61b2.chunk.js",
+    "static/media/logo.svg": "/UA-DESIGNS-INDIA-1-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/UA-DESIGNS-INDIA-1-2/index.html",
+    "main.3dfca1f2.css.map": "/UA-DESIGNS-INDIA-1-2/static/css/main.3dfca1f2.css.map",
+    "main.fed85ba8.js.map": "/UA-DESIGNS-INDIA-1-2/static/js/main.fed85ba8.js.map",
+    "787.141b61b2.chunk.js.map": "/UA-DESIGNS-INDIA-1-2/static/js/787.141b61b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dfca1f2.css",
+    "static/js/main.fed85ba8.js"
+  ]
+}
